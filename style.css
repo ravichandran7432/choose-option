@@ -1,0 +1,25 @@
+.container{
+    background-color: bisque;
+    border: 2px solid black;
+    height: 400px;
+    width:700px;
+    margin-top: 150px;
+}
+.a1,.b1,.c1,.d1{
+    background-color: white;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    background-color: rgb(209, 80, 80);
+    padding: 15px;
+}
+.a{
+    padding: 10px;
+}
+span {
+    padding: 7px;
+}
